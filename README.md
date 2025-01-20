@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Your Akhil👋
 
-Welcome to my GitHub profile! I'm a passionate developer and data scientist with a focus on **AI**, **Machine Learning**, and **Computer Vision**. Below you'll find some of the key projects I've worked on and my areas of expertise.
+I'm a passionate developer and data scientist with a focus on **AI**, **Machine Learning**, and **Computer Vision** ans **Semiconductor Technology** . Have Fun reading some of my key projects I've worked on and my areas of expertise .
 
 ## 🚀 Projects
 
@@ -45,17 +45,20 @@ Welcome to my GitHub profile! I'm a passionate developer and data scientist with
 
 - Advanced **Reinforcement Learning** techniques
 - **Natural Language Processing (NLP)** with Transformer models
-- **Deep Learning** for medical image analysis
+- **Deep Learning** for image analysis
+- **Mixture Models** 
 
 ## 📫 How to Reach Me
 
 - [Email](mailto:heyakhil0@gmail.com)
+- [Portfolio](https://akhilkumar.vercel.app/)
 
 
 ## 📝 Fun Fact
 
-I love experimenting with **AI art**, using machine learning to generate creative images. Feel free to check out some of my fun projects on this topic!
+- NO FUN FACTS ❌
+
 
 ---
 
-### Thanks for visiting my GitHub! Happy Optimizing !! 🪓
+### Hope you found something useful here! Happy Optimizing !! 🪓
