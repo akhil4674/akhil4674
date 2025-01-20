@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer and data scientist with
 ### 3. **[AI-based Wafer Defect Detection 🔬](https://github.com/YourUsername/Wafer-Defect-Detection)**
    - A machine learning model that detects defects in semiconductor wafer images using convolutional neural networks (**CNNs**).
    - Employed for quality control in semiconductor manufacturing, reducing the need for manual inspection.
+### 4. **[More Pins Below]**
 
 ## 🧠 Expertise
 
@@ -57,6 +58,4 @@ I love experimenting with **AI art**, using machine learning to generate creativ
 
 ---
 
-### Thanks for visiting my GitHub! 😄
-
-Feel free to check out my repositories and open an issue or contribute to any project you're interested in!
+### Thanks for visiting my GitHub! Happy Optimizing !! 🪓
