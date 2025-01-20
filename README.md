@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm  Akhil👋
+# Hi there, I'm Akhil👋
 
 I'm a passionate developer and data scientist with a focus on **AI**, **Machine Learning**, and **Computer Vision** ans **Semiconductor Technology** . Have Fun reading some of my key projects I've worked on and my areas of expertise .
 
