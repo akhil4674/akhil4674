@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Akhil👋
 
-I'm a passionate developer and data scientist with a focus on **AI**, **Machine Learning**, and **Computer Vision** ans **Semiconductor Technology** . Have Fun reading some of my key projects I've worked on and my areas of expertise .
-
+I work on designing AI systems, developing machine learning models, and applying computer vision techniques, Right Now in the field of semiconductor technology. I enjoy creating practical, efficient solutions and working with expertise in intelligent systems
 ## 🚀 Projects
 
 ### 1. **[Color Quantizer using PyTorch 🎨](https://github.com/YourUsername/ColorQuantizer)**
