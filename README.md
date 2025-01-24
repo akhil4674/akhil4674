@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I work on designing AI systems, developing machine learning models, and applying computer vision techniques, Right Now in the field of semiconductor technology. I enjoy creating practical, efficient solutions and working with expertise in intelligent systems
 ## 🚀 Projects
 
-### 1. **[Color Quantizer using PyTorch 🎨](https://github.com/YourUsername/ColorQuantizer)**
+### 1. **[Computer Vision Color Quantizer 🎨](https://github.com/YourUsername/ColorQuantizer)**
    - A neural network-based color quantizer that reduces the number of colors in images for various applications like compression and artistic effects.
    - Uses **K-Means clustering** for color palette reduction and **MSE loss** for optimization.
    - Implements a **PyTorch** model for efficient training and inference.
