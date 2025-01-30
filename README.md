@@ -44,9 +44,9 @@ I work on designing AI systems, developing machine learning models, and applying
 ## 🧠 Expertise
 
 - **Machine Learning & AI**: TensorFlow, PyTorch, Keras
-- **Computer Vision**: OpenCV, Image Processing, Object Detection
-- **Reinforcement Learning**: PPO, Q-Learning
-- **Data Science**: Pandas, Numpy, Matplotlib, Seaborn
+- **Computer Vision**: OpenCV, Image Processing, NLP
+- **Reinforcement Learning**: PPO, Q-Learning, DCGAN
+- **Data Science**: Pandas, Numpy, Seaborn , Dash 
 
 ## 🌱 Currently Learning
 
