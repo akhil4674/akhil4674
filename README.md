@@ -48,7 +48,7 @@ I work on designing AI systems, developing machine learning models, and applying
 - **Reinforcement Learning**: PPO, Q-Learning, DCGAN
 - **Data Science**: Pandas, Numpy, Seaborn , Dash 
 
-## 🌱 Currently Learning
+## 🌱 Currently Working With
 
 - Advanced **Reinforcement Learning** techniques
 - **Natural Language Processing (NLP)** with Transformer models
